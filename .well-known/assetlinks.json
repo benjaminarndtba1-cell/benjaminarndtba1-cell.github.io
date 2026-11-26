@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.travelcostassist.app",
+      "sha256_cert_fingerprints": [
+        "B9:A9:BD:6A:37:71:42:6D:1C:D6:60:75:5A:D2:57:4A:70:D8:33:07:18:B4:97:97:9B:E3:23:02:42:76:3D:4C"
+      ]
+    }
+  }
+]
